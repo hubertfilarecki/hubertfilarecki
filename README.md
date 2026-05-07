@@ -1,9 +1,9 @@
 # Hi 👋, I'm Hubert Filarecki
 
-🎓 **Computer Science graduate** from the Bydgoszcz University of Science and Technology  
-💻 Passionate about **Web Development, UI/UX, and interactive user experiences**  
-🚀 Focused on building **Full-Stack web applications**  
-📍 Based in **Poland**  
+- 🎓 **Computer Science graduate** from the Bydgoszcz University of Science and Technology  
+- 💻 Passionate about **Web Development, UI/UX, and interactive user experiences**  
+- 🚀 Focused on building **Full-Stack web applications**  
+- 📍 Based in **Poland**  
 
 ---
 
@@ -39,13 +39,13 @@
 
 ## 🚀 Featured Projects
 
-🔹 **Training Management Web Application**  
+🔹 **[Training Management Web Application](https://github.com/hubertfilarecki/gym-training-app)**  
 A full-stack web application for planning and managing workouts with a built-in messaging system.  
 
-🔹 **Interactive Shopping List Application**  
+🔹 **[Interactive Shopping List Application](https://github.com/hubertfilarecki/shopping-list)**  
 A responsive web application for managing shopping lists with sorting, filtering, local storage, and dynamic UI updates.  
 
-> *Check out my repositories for more projects.*
+> *[Check out my repositories for more projects.](https://github.com/hubertfilarecki?tab=repositories)*
 
 ---
 
